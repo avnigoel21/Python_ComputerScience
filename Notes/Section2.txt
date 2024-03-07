@@ -1,0 +1,46 @@
+Binary Numbers or binary Airthmetic
+
+0,1
+
+Representing characters:
+
+ASCII Codes
+(A, a, #, 0, !) etc
+
+decimal values
+A - 65
+B - 66
+C - 67
+......
+
+
+a - 97
+b - 98
+........
+
+
+convert decimal values to binary
+1) the divide by two method
+2) the binary number line method
+
+
+Representing images:
+different ways of storing an image:
+1) vector - the maths to store the square are stored (radius, color, width)  -> drawings
+2) bitmap - images made up of different coloured squares, each square has binary value  -> photographs
+
+
+
+Representing Sounds:
+analog signal -> digital signal -> binary codes
+
+sound waves: sample rate (speed)+ bit depth(detail)  
+
+
+sample rate - how often you record the amplitude of a sound wave, the more often you record a sample the smoother the playback will sound.
+bit depth - represents how many different gradations of amplitude can be represented in a digital wave form.
+
+
+Compression:
+1) lossy copression - we loss the quality of the images
+2) lossless compression: this method does not loss any data at all during compression.
