@@ -9,6 +9,8 @@ fruits = ['apple', "grapes" , "watermelon", "mango"]  # list
 # for i in range(4):
 #     print(fruits[i])
 
+
+
 # for i in range(1, 4, 2):
 #      print(fruits[i])
 
