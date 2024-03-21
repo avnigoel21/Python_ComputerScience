@@ -1,0 +1,76 @@
+Networking
+
+Advantages:
+1) Users can access their files from any computer on the network
+2) Servers can control security, backup of data, software updates
+3) Communication with other people through email or social networking
+
+LAN (Local area network)
+1) covers a small area located in a single site.
+2) LANS are wired with UTP Cable, fibre optic or wireless using wifi
+3) All the hardware for a LAN is owned by the organization using it.
+
+WAN (Wide Area Network)
+1) Covers a large area connecting LANs together
+2) WANS are connected with telephone lines, fibre optics cables or satellite links
+3) Infrastructure between the LANs is leased from telecommunication companies who owns and manages it.
+
+
+Disadvatages of Networking
+1) Increased security risk of data
+2) Malware and viruses spread very easity between computers
+3) The computer may run more slowly if there is a lot of datatravelling on the network
+4) if a server fails, the computers connected to it may not work
+
+Factors that affect the performance of networks:
+1) Bandwidth - the amount of data that can be sent and recieved successfully in a given time.
+	     - this is not a measure of how fast data travels, but how much data can be sent on the transmission media
+             - Measured in bits per second often called bit rate.
+2) The numeber of users - too many users or devices on the same network can cause the network slwo down if there is insufficent bandwidth for the data
+3) Transmission media - Wired connections have a higher bandwidth than wireless connections
+		      - fibre optic cables have a bandwidth than copper cables.
+4) error rate - less reliable connections increase the number of errors taht occur when data is tranferred.
+	      - The signal quality of wireless connections is dependent on the range of devices from the wireless access point and other environmental factors
+	      - The signal quality of copper cables is determined by the grade of material used reduces interference.
+	      - The length of the cable is also a factor
+5) Latency - The delay from transmitting data to recieving it
+	   - caused by bottlenecks in the infrastructure of the network
+	   - eg - by not using switches to appropriately segment traffic on a network
+	   - Hardware such as switches and transmission media may not operate at the same speed
+
+
+
+Client-Server Model
+1) A server controls access and security to one shared file store.
+2) A server manages access to the internet
+3) A server runs a backup of data
+4) A server manages the printing jobs
+5) A server provides email services
+6) A client makes request to the server for data and connections
+
+Advantages of Client-Server Model: 
+1)Easier to manage security files
+2)Eare
+2)sier to take backups of all the shared data
+3)Easier to install software updates to all computers
+
+Disadvantages of Client-Server Model:
+1)The server is a single point of failure
+2)Can be expensive to setup and maintain
+3)Requires IT Specialists to amintain
+4)Users will lose access if the server fails
+
+
+
+Peer to Peer model
+
+
+
+
+
+
+
+
+
+
+ 
