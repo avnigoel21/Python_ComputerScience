@@ -1,0 +1,69 @@
+Protocols: A protocol is a set of rules that allows two devices to communicate
+
+Common protocols in networking:
+
+1) TCP/IP - Transmission Control Protocol/Internet Protocol -             COMMUNICATE OVER LANs AND WANs
+2) HTTP - Hypertext Transfer Protocol -                                   WEBPAGE REQUEST
+3) HTTPS - Hypertext Transfer Protocol Secure -                           WEBPAGE REQUEST
+4) FTP - File Transfer Protocol -                                         FILE TRANSFER
+5) POP - Post Office Protocol -                                           EMAIL
+6) IMAP - Internet Message Access Protocol -                              EMAIL
+7) SMTP - Simple Mail Transfer Protocol -                                 EMAIL
+
+TCP/IP
+TCP - provides an error free transmission between two routers
+IP - Routes packets across A Wide area network
+TCP/IP - together make up a stack which is the foundation of communication over the internet.
+
+
+HTTP / HTTPS
+
+HTTP - is a way for a client and server to send and recieve requests and to deliver HTML Web pages
+It is the fundamental protocol of the world wide web (WWW)
+HTTPS - is effectively the same as the HTTP except it adds in ecryption and authentication
+so it should be used on the web when a website needs to deal with sensitive information such as passwords or bank account details.
+
+
+FTP
+is used for sending files between computers, normally on a wide area network.
+These are software applications which sit on the actual FTP Protocol.
+ 
+POP/ IMAP / SMTP
+All three ae used in conjunction with mail servers to deal with emails.
+Mail servers act like a virtual online post office for all incoming and outgoing email
+
+SMTP - Transfers outgoing emails from one server to another / from a client to a server
+POP - Retrives emails from a mail server. Remove it from server and transfer to your device
+IMAP - Keeps emails on the mail server, allowing synchronicity between devices
+
+
+
+The Internet
+Most well known Wide Area network.
+A collection of interconnected networks spanning the world
+we see a home network connected via wireless router.
+The home router is connected to an Internet Service Provider typically by telephone connection or fibre
+Our ISP is connected to DNS (Domain Name server) and other routers on the backbone of the internet.
+
+
+
+
+
+
+
+
+Tasks:
+
+When connecting computers into a network, the use of appropriate protocols are important.
+(a) Explain what is meant by a protocol.
+[2]
+(b) For each of the scenarios below, identify the most appropriate protocol to be used and explain 
+the function of the protocol.
+) A user wants to transfer a file directly from his computer to his friend’s computer.
+ (ii) A customer wants to securely log into her bank’s website to check her account balance.
+(c) Explain the difference between how the IMAP (Internet message access protocol) and SMTP 
+(simple mail transfer protocol) protocols are used.
+
+
+
+

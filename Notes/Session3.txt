@@ -50,23 +50,33 @@ Client-Server Model
 
 Advantages of Client-Server Model: 
 1)Easier to manage security files
-2)Eare
-2)sier to take backups of all the shared data
+2)Easier to take backups of all the shared data
 3)Easier to install software updates to all computers
 
 Disadvantages of Client-Server Model:
 1)The server is a single point of failure
 2)Can be expensive to setup and maintain
-3)Requires IT Specialists to amintain
+3)Requires IT Specialists to maintain
 4)Users will lose access if the server fails
 
 
 
 Peer to Peer model
 
+A peer is a computer on a network and is equal to all other peers
+Peers serve their own files to each other
+Each peer is responsible for its own security and backup
 
+Advantages: 
+1) very easy to maintain 
+2) No dependency on a single computer
+3) cheaper to set up
+4) no expensive hardwares required
+5) specialist staff are not required
 
-
+Disadvantages:
+1) The network is less secure
+2) Users will need to manage their own backup
 
 
 
