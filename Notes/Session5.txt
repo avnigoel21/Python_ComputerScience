@@ -1,0 +1,26 @@
+Web Servers and Clients:
+
+Web Servers - carry out mny functions 
+1) hosting websites
+2) Dealing with Client requests
+Webpages - (HTML, javascript)  - is sent to the browser which uses rules to render it correctly for the user.
+
+The cloud:
+Servers can be used to store data and programs that can be accessed and used over the internet, this is known as cloud.
+
+Advantages of the Cloud:
+1) A large storage capacity
+2) Access anywhere and anytime
+3) data sharing is earier - easy online collaboration
+4) Automatic backup
+
+Domain Name Service:
+1) The url is recieved by a DNS Resolver server
+2) The server then queries a DNS Root Name Server
+3) The root server responds with the address of the top-level domain server from .com
+4) The resolver then makes a request to the .com TLD server
+5) The TLD Server then responds with the IP address of the domain's name server, google.com
+6) Lastly, resolver sends a query to the domain name server
+7) IP address is then returned to the resolver from the name server
+8) DNS Resolver then responds to the web browser with the ip addrress of google.com
+
