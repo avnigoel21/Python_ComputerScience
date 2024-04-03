@@ -44,3 +44,26 @@ bit depth - represents how many different gradations of amplitude can be represe
 Compression:
 1) lossy copression - we loss the quality of the images
 2) lossless compression: this method does not loss any data at all during compression.
+
+
+
+Numbers:
+1) Binary numbers (base 2)
+2) hexa decimal numbers (base 16)
+3) decimal numbers (base 10)
+4) octal numbers (base 8)
+
+
+binary -> hexa decimal
+binary -> decimal
+binary to octal
+
+
+
+1101101010 to base 16 (hexa decimal)
+
+
+hexa decimal to binary
+example 256 (hexa decimal) to binary (base 2)
+
+

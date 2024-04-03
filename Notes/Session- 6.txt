@@ -1,0 +1,20 @@
+TOPOLOGY: A GIVEN ARRANGEMENT OF ALL ELEMENTS THAT YOU NEED FOR NETWORKING
+
+TYPES:
+1) Bus Topology: Devices connected to a central backbone cable.
+2) Ring Topology: Has the same potential as the bus network with main cable failure 
+		  A second ring can be introduced to prevent this issue, but that requires extra cable
+
+3) Star topology : most popular wired typed of network
+		 : central switch
+		 : all devices connect into the central switch
+		 : the switch is intelligent and makes sure traffic only goes where it is intended.
+	         : if a single cable breaks only that computer is effected
+	         : the switch is however is still a serious point of failure.
+
+4) Full Mesh Network Topology :
+5) Partial Mesh Network Topology :
+
+
+
+
